@@ -1,0 +1,11 @@
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\PC-1\Desktop\Git Repository\NotesApp\NotesApp\NotesApp\obj\Debug\NotesApp.Form1.resources
