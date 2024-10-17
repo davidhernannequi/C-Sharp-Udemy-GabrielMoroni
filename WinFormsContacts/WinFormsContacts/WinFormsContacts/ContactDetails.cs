@@ -67,6 +67,7 @@ namespace WinFormsContacts
             {
                 ClearForm();
                 txtFirstName.Text = contact.FirstName;
+                txtFirstName.SelectionStart = 0;
                 txtLastName.Text = contact.LastName;
                 txtPhone.Text = contact.Phone;
                 txtAddress.Text = contact.Address;

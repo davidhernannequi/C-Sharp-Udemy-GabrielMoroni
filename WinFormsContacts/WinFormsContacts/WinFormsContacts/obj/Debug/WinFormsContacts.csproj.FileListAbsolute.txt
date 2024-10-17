@@ -20,3 +20,21 @@ C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-Udemy\WinFormsCo
 C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-Udemy\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.CoreCompileInputs.cache
 C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-Udemy\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.exe
 C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-Udemy\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe.config
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.AssemblyReference.cache
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.ContactDetails.resources
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Main.resources
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Properties.Resources.resources
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.GenerateResource.cache
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.exe
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\BussinesLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\DomainLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\DataAccessLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\BussinesLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\DomainLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\bin\Debug\DataAccessLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.CopyComplete

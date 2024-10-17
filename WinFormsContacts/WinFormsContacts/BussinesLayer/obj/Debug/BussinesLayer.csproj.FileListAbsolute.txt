@@ -1,0 +1,11 @@
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\DomainLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\bin\Debug\DomainLayer.pdb
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\obj\Debug\BussinesLayer.csproj.CopyComplete
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\PC-1\Documents\GitHub\C-Sharp-Udemy-GabrielMoroni\WinFormsContacts\WinFormsContacts\BussinesLayer\obj\Debug\BussinesLayer.pdb
